@@ -65,9 +65,6 @@ descriptive information.
 
 The dashboard uses DAX calculations to calculate important sales metrics.
 
-### 1. Net Price
-
-Calculates the net value of each order after applying the discount.
 
 ```DAX
 NetPrice =
