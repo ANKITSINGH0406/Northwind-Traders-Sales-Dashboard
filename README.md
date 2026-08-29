@@ -85,7 +85,7 @@ FORMAT(DimDate[Full_Date], "MMMM")
 
 ### Home Dashboard
 
-![Home Dashboard](Screenshots/Dashboard_Home.png)
+![Home Dashboard](Screenshots/Home.png)
 
 ### Monthly Trends
 
